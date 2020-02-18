@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e938f8ca-e900-4a94-83ac-0117891b0ad5" name="Default Changelist" comment="" />
+    <list default="true" id="e938f8ca-e900-4a94-83ac-0117891b0ad5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sudoku_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WrsnQAo9rfkdMfeQYZF1Brnpmj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -114,11 +121,13 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="443" y="76" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1580164595518" />
-    <state x="685" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1581570973622">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="685" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1582002570457">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="685" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1580529248128" />
     <state x="685" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1581570973622" />
+    <state x="685" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1581731150987" />
+    <state x="685" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1582002570457" />
     <state x="685" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1579919495651" />
     <state x="699" y="177" width="670" height="676" key="search.everywhere.popup" timestamp="1580184828184">
       <screen x="0" y="23" width="1440" height="830" />
